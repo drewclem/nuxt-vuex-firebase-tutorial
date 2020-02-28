@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-firebase-vuex-tutorial",
+  "version": "1.0.0",
+  "description": "Setting up user accounts with nuxt, vuex, and firebase",
+  "author": "Drew",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "firebase": "^7.9.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
